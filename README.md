@@ -3,8 +3,8 @@
 office:  
 email:  
 
-I am a lecturer at the University of Illinois, Chicago. Previously, I have been a postdoc at the University of Utah, UC Berkeley, and MSRI.  
-My research is in algebraic and arithmetic geometry. I have been particularly interested in K3 surfaces, Calabi-Yau varieties, derived categories, and algebraic stacks, particularly in mixed and positive characteristic.  
+I am a lecturer at the University of Illinois, Chicago. Previously, I have held postdocs at the University of Utah, UC Berkeley, and MSRI.  
+My research is in algebraic and arithmetic geometry. Particular areas of focus include K3 surfaces, Calabi-Yau varieties, derived categories, and algebraic stacks, especially in mixed and positive characteristic.  
 
 
 
