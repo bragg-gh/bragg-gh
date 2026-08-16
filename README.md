@@ -1,7 +1,9 @@
 ## Danny Bragg
-University of Illinois, Chicago
-office:
-email:
+University of Illinois, Chicago. 
+office:  
+email:  
+
+# Papers:
 
 <!--
 **bragg-gh/bragg-gh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
