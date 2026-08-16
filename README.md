@@ -1,5 +1,6 @@
 ## Danny Bragg
-University of Illinois, Chicago.  
+University of Illinois, Chicago. 
+
 office:  
 email:  
 
