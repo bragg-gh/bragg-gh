@@ -1,0 +1,256 @@
+<!DOCTYPE html>
+<html lang="en">
+
+
+  <head>
+
+
+  <meta charset="utf-8">
+
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+  <title>Danny Bragg</title>
+  <meta name="description" content="">
+
+
+  
+
+
+  <link rel="stylesheet" href="./css/main.css">
+
+  <link rel="canonical" href="./">
+
+  <link rel="alternate" type="application/rss+xml" title="Daniel Bragg" href="./feed.xml">
+
+  
+  
+</head>
+
+
+
+  	<body>
+
+
+    		<header class="site-header" role="banner">
+
+
+  		<div class="wrapper navigation-wrapper ">
+
+
+    		<div class="navigation-links">
+
+      
+
+
+      
+    <a class="site-title" href="./">Danny Bragg</a>
+
+
+      			<nav class="site-nav">
+
+        		<a href="#" class="menu-icon">
+
+          		<svg viewBox="0 0 18 15" width="18px" height="15px">
+
+            			<path fill="#424242" d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.031C17.335,0,18,0.665,18,1.484L18,1.484z"/>
+
+            			<path fill="#424242" d="M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0c0-0.82,0.665-1.484,1.484-1.484 h15.031C17.335,6.031,18,6.696,18,7.516L18,7.516z"/>
+
+            			<path fill="#424242" d="M18,13.516C18,14.335,17.335,15,16.516,15H1.484C0.665,15,0,14.335,0,13.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.031C17.335,12.031,18,12.696,18,13.516L18,13.516z"/>
+
+          		</svg>
+
+        	</a>
+
+
+        	<div class="trigger">
+
+          	<a class="page-link active" href="./index.html" >Home</a>
+   <!--       	<a class="page-link " href="./research.html" >Research</a>
+ -->
+            
+    <a class="page-link " href="./teaching.html" >Teaching</a>
+            
+    </div>
+
+      		</nav>
+
+    		</div>
+
+    
+    
+
+  </div>
+
+</header>
+
+
+
+    <main class="page-content" aria-label="Content">
+
+      <div class="wrapper">
+
+        <article class="post">
+
+
+  <div class="post-content">
+  
+
+  Department of Mathematics, University of Utah<br>
+  Office: JWB 217<br>
+  Email: bragg@<span style="display: none;">gmail</span>math.utah.<span style="display: none;">gone</span>edu<br><br>
+  <hr>
+  <br>
+  
+<!-- 
+<div style="width:100%">
+
+
+<div style="width:30%;float:left;">
+<p><img class="img-responsive img-border img-left" src="./picture.jpg" alt="" width="200px"></p>
+
+</div>
+<div style="width:50%;float:left;">
+	<p><big>About:</big></p>
+	<p>I am an NSF postdoc at UC Berkeley. During the Spring semester of 2019, I was a postdoc at MSRI.</p>
+	<p>My research is in algebraic geometry.  Among other things, I am interested in birational geometry, Brauer groups, Calabi-Yau varieties, and derived categories, particularly in positive characteristic.</p>
+	<p>I am a co-organizer of the <a href="./seminar">Berkeley arithmetic geometry and number theory seminar</a>.</p>
+</div>
+</div>
+-->
+	<p><big>About:</big></p>
+	<p>I am a Wylie Assistant Professor at the University of Utah. Previously, I was an NSF postdoc at UC Berkeley and a postdoc at MSRI.</p>
+	<p>My research is in algebraic and arithmetic geometry. Among other things, I am interested in algebraic stacks, birational geometry, Brauer groups, Calabi-Yau varieties, and derived categories, particularly in positive characteristic.</p>
+	<p>Here is my CV: <a href="./CV.pdf">LINK</a></p>
+<!--
+  <p>During the Fall of 2023 I am co-organizing the <a href="./seminar">AG preprint seminar</a>. 
+-->   
+ </div>
+	</div>
+
+<div class="wrapper">
+
+<hr>
+
+<br>
+<p><big>Papers:</big></p>
+<ul>
+	<li>[<a href="https://arxiv.org/abs/2505.12139">arXiv</a>] On the logarithmic Hodge-de Rham spectral sequence for curves on K3 surfaces. <i>Preprint</i> </li>
+    <li>[<a href="https://arxiv.org/abs/2407.01743">arXiv</a>] Ample vector bundles and moduli of tame stacks (with Martin Olsson and Rachel Webb). <i>Preprint</i> </li>
+  	<li>[<a href="https://arxiv.org/abs/2402.00862">arXiv</a>] Murphy's Law for algebraic stacks (with Max Lieblich). <i>Preprint</i> </li>
+	<li>[<a href="https://arxiv.org/abs/2402.01873">arXiv</a>] Fourier-Mukai transforms commuting with Frobenius. To appear in <i>Bulletin of the London Mathematical Society.</i> </li>
+	<li>[<a href="https://arxiv.org/abs/2304.02778">arXiv</a>] Automorphism groups of curves over arbitrary fields. <i>Preprint</i> </li>
+	<li>[<a href="https://arxiv.org/abs/2206.06195">arXiv</a>] Projectivity of the moduli space of vector bundles on a curve (with Jarod Alper, Pieter Belmans, Jason Liang, and Tuomas Tajakka). In <i>Stacks Project Expository Collection, Eds. Belmans, P., Ho, W., & De Jong, A., London Mathematical Society Lecture Note Series (2022), Cambridge University Press.</i></li>
+	<li>[<a href="https://arxiv.org/abs/2110.15041">arXiv</a>] Unipotent morphisms (with Jack Hall and Siddharth Mathur). To appear in <i>Geometry &amp Topology.</i></li>
+	<li>[<a href="https://arxiv.org/abs/2107.11492">arXiv</a>] Representability of cohomology of finite flat abelian group schemes (with Martin Olsson). <i>Preprint</i></li>
+	<li>[<a href="https://arxiv.org/abs/2106.09949">arXiv</a>] Hodge numbers are not derived invariants in positive characteristic (with Nicolas Addington).  <i>Mathematische Annalen, Vol. 387 (2023); pgs 847-878.</i></li>
+	<li>[<a href="https://arxiv.org/abs/2102.01193">arXiv</a>] Twisted derived equivalences and isogenies between K3 surfaces in positive characteristic (with Ziquan Yang). <i>Algebra and Number Theory, Vol. 17 no. 5 (2023); pgs 1069–1126.</i></li>
+	<li>[<a href="https://arxiv.org/abs/1912.06961">arXiv</a>] Lifts of twisted K3 surfaces to characteristic 0. <i>International Mathematical Research Notices,  Vol. 5 (2023); pgs 4337–4407.</i></li>
+	<li>[<a href="https://arxiv.org/abs/1906.12267">arXiv</a>] Derived invariants from topological Hochschild homology (with Benjamin Antieau). <i>Algebraic Geometry, Vol. 9  no. 3 (2022); pgs 364-399.</i></li>
+	<li>[<a href="https://arxiv.org/abs/1904.04803">arXiv</a>] Perfect points on genus one curves and consequences for supersingular K3 surfaces (with Max Lieblich). <i>Compositio Mathematica, Vol. 158 no. 5 (2022); pgs 1052-1083.</i></li>
+	<li>[<a href="https://arxiv.org/abs/1811.07379">arXiv</a>] Derived equivalences of twisted supersingular K3 surfaces. <i>Advances in Mathematics, Vol. 378 (2021); 107498.</i></li>
+	<li>[<a href="https://arxiv.org/abs/1804.07282">arXiv</a>] Twistor spaces for supersingular K3 surfaces (with Max Lieblich). <i>Preprint</i></li>
+	<li>[<a href="https://arxiv.org/abs/1405.2299">arXiv</a>] Restrictions of rainbow supercharacters (with Nathaniel Thiem). <i>Journal of Algebra, Vol. 451 (2016); pgs 357-400.</i></li>
+</ul>
+
+<br>
+
+
+<!--
+<br>
+<p><big>Notes:</big></p>
+<ul>
+	
+</ul>
+-->
+
+<br>
+
+<hr>
+
+<br>
+
+<!--
+<hr>
+
+<br>
+<p><big>Notes:</big></p>
+<ul>
+	<li>[<a href="./TR_bragg.pdf">Link</a>] Slides for my talk "Derived invariants of varieties in positive characteristic" (Stacks project workshop 2020)</li>
+</ul>
+-->
+</div>
+
+
+
+	
+    
+
+</article>
+
+
+      </div>
+
+    </main>
+
+
+    <footer class="site-footer">
+
+
+  <div class="wrapper">
+
+
+    <div class="footer-col-wrapper">
+
+      <div class="footer-col">
+
+        <ul class="contact-list">
+
+          <li>
+
+            
+              Danny Bragg
+            
+          
+</li>
+
+          
+            
+            <li>University of Utah</li>
+
+            
+          
+          <li>bragg@<span style="display: none;">gmail</span>math.utah.<span style="display: none;">gone</span>edu</li>
+
+        </ul>
+
+      </div>
+
+
+      <div class="footer-col">
+
+      </div>
+
+    </div>
+
+  </div>
+
+  
+
+</footer>
+
+
+
+  </body>
+
+
+</html>
+
+
+
+
+
+

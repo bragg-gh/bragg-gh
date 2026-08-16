@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html lang="en">
+
+
+  <head>
+
+  <meta charset="utf-8">
+
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+  <title>Math 3210 Fall 2023</title>
+
+  <meta name="description" content="">
+
+
+  
+
+
+  <link rel="stylesheet" href="./css/main.css">
+
+  <link rel="canonical" href="./teaching.html">
+
+  <link rel="alternate" type="application/rss+xml" title="Daniel Bragg" href="./feed.xml">
+
+  
+  
+</head>
+
+
+
+  <body>
+
+
+    <header class="site-header" role="banner">
+
+
+  <div class="wrapper navigation-wrapper ">
+
+
+    <div class="navigation-links">
+
+      
+
+
+      
+      <a class="site-title" href="./">Daniel Bragg</a>
+
+
+      <nav class="site-nav">
+
+        <a href="#" class="menu-icon">
+
+          <svg viewBox="0 0 18 15" width="18px" height="15px">
+
+            <path fill="#424242" d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.031C17.335,0,18,0.665,18,1.484L18,1.484z"/>
+
+            <path fill="#424242" d="M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0c0-0.82,0.665-1.484,1.484-1.484 h15.031C17.335,6.031,18,6.696,18,7.516L18,7.516z"/>
+
+            <path fill="#424242" d="M18,13.516C18,14.335,17.335,15,16.516,15H1.484C0.665,15,0,14.335,0,13.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.031C17.335,12.031,18,12.696,18,13.516L18,13.516z"/>
+
+          </svg>
+
+        </a>
+
+
+        <div class="trigger">
+
+          <a class="page-link " href="./index.html" >Home</a>
+ <!--         <a class="page-link " href="./research.html" >Research</a> 
+ -->
+          <a class="page-link active" href="./teaching.html" >Teaching</a>
+            
+          
+            
+          
+        </div>
+
+      </nav>
+
+   </div>
+
+    
+    
+
+  </div>
+
+</header>
+
+
+
+    <main class="page-content" aria-label="Content">
+
+      <div class="wrapper">
+        <article class="post">
+
+
+
+  <div class="post-content">
+
+    <ul class="publications">
+
+</ul>
+
+  </div>
+
+  
+	</article>
+	<p><big>Math 3210, Section 002, Fall 2023</big></p>
+
+	
+	<p><big>Resources:</big></p>
+	<ul>
+	  <li>Office hours: WF 12-1 in JWB 319, or by appointment.
+	  <li>[<a href="./3210_F23_syllabus.pdf">click</a>] The course syllabus.
+	  <li>The Math Center has scheduled office hours and group tutoring sessions Math 3210. View the schedule here: <a href="https://www.math.utah.edu/undergraduate/mathcenter.php">https://www.math.utah.edu/undergraduate/mathcenter.php</a>.
+	  <li>The Learning Center offers free individual tutoring sessions for Math 3210. Sign up here: <a href="https://learningcenter.utah.edu/">https://learningcenter.utah.edu/</a>.
+	</ul>
+	
+	
+
+	<p><big>Homework: (turn in on Canvas)</big></p>
+	<ul>
+	   <li>Homework 1: Section 1.2, problems 8,9,13; Section 1.3, problems 3,4. (<a href="./3210_F23_HW1_solutions.pdf">solutions</a>)
+	   <li>Homework 2: Section 1.3, problem 5; Section 1.4, problems 1,4,10,11. (<a href="./3210_F23_HW2_solutions.pdf">solutions</a>)
+	   <li>Homework 3: Section 1.4, problems 7,8,9; Section 1.5, problem 2. (<a href="./3210_F23_HW3_solutions.pdf">solutions</a>)
+	   <li>Homework 4: Section 2.1, problems 1,2,4,5,11. (<a href="./3210_F23_HW4_solutions.pdf">solutions</a>)
+	   <li>Homework 5: Section 2.2, problems 3,5,10; Section 2.3, problems 1,3. (<a href="./3210_F23_HW5_solutions.pdf">solutions</a>)
+	   <li>Homework 6: Section 2.4, problems 1,3,8,9,11,12. (<a href="./3210_F23_HW6_solutions.pdf">solutions</a>)
+	   <li>Homework 7: Section 3.1, problems 1,4,5,6,7. (<a href="./3210_F23_HW7_solutions.pdf">solutions</a>)
+	   <li>Homework 8: Section 3.1, problem 9; Section 3.2, problems 1,2,4,5,7. (<a href="./3210_F23_HW8_solutions.pdf">solutions</a>)
+	   <li>Homework 9: Section 3.2, problems 6,9,12; Section 4.1, problems 1,2,7. (<a href="./3210_F23_HW9_solutions.pdf">solutions</a>)
+	   <li>Homework 10: Section 4.2, problems 1,3,7,12. (<a href="./3210_F23_HW10_solutions.pdf">solutions</a>)
+	   <li>Homework 11: Section 5.1, problems 1,2,3,4,5. (<a href="./3210_F23_HW11_solutions.pdf">solutions</a>)
+	   <li>Homework 12: Section 5.2, problems 4,9,10,11,12. (<a href="./3210_F23_HW12_solutions.pdf">solutions</a>)
+		  <br>
+	</ul>
+	
+	<p><big>Notes and exam review:</big></p>
+	<ul>
+	  <li>[<a href="./3210_F23_MT1_review.pdf">click</a>] Sample problems for Midterm 1. (<a href="./3210_F23_MT1_review_solutions.pdf">solutions</a>)
+	  <li>[<a href="./3210_F23_MLT.pdf">click</a>] The Main Limit Theorem.
+	  <li>[<a href="./3210_F23_MT2_review.pdf">click</a>] Sample problems for Midterm 2. (<a href="./3210_F23_MT2_review_solutions.pdf">solutions</a>)
+	  <li>[<a href="./3210_F23_MT3_review.pdf">click</a>] Sample problems for Midterm 3. (<a href="./3210_F23_MT3_review_solutions.pdf">solutions</a>)
+		  <br>
+	</ul>
+
+
+	<p><big>Exams:</big></p>
+	<ul>
+	        <li>Midterm 1: September 15 (9/15/23) (<a href="./3210_F23_MT1_solutions.pdf">solutions</a>)
+			<li>Midterm 2: October 6 (10/6/23) (<a href="./3210_F23_MT2_solutions.pdf">solutions</a>)
+			<li>Midterm 3: November 10 (11/10/23) (<a href="./3210_F23_MT3_solutions.pdf">solutions</a>)
+			<li>Final Exam: December 13 (12/13/23)
+		  <br>
+	</ul>
+	
+	<br>
+	</div>
+
+    </main>
+
+
+    <footer class="site-footer">
+
+
+  <div class="wrapper">
+
+
+    <div class="footer-col-wrapper">
+
+      <div class="footer-col">
+
+        <ul class="contact-list">
+          <li>
+
+            
+              Daniel Bragg
+
+            
+          </li>
+
+          
+            
+            <li>University of Utah</li>
+
+            
+          
+          <li>bragg@<span style="display: none;">gmail</span>math.utah.<span style="display: none;">gone</span>edu</li>
+
+
+        </ul>
+
+      </div>
+
+
+      <div class="footer-col">
+
+      </div>
+
+    </div>
+
+  </div>
+
+
+  
